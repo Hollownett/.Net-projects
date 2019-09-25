@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Даниил Викторович\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Даниил Викторович\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Даниил Викторович\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_WindowsFormsApplication1.-491508345.00" t="ExcludeRecursive" />
+    <e p="K:\LR\WindowsFormsApplication1" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PolskiNotaion.cs" t="Include" />
+      <e p="Solution Items" t="Include" />
+      <e p="WindowsFormsApplication1" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PolskiNotaion.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="UserControl1.cs" t="Include" />
+        <e p="UserControl1.Designer.cs" t="Include" />
+        <e p="WindowsFormsApplication1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WindowsFormsApplication1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

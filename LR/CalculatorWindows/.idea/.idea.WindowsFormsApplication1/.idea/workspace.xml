@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb5c6682-40ce-4be9-bd29-eab822b1e4f8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PolskiNotaion.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/PolskiNotaion.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2608">
+              <caret line="165" column="48" lean-forward="true" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="48" />
+              <folding>
+                <marker date="1568849680204" expanded="false" signature="6:75" ph="..." />
+                <marker date="1568849680204" expanded="true" signature="119:6503" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="168:251" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="483:1330" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="557:1320" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="698:1241" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="1373:1801" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="1406:1791" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="1865:3326" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="2043:3148" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="2100:3069" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="2177:2987" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="2242:2556" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="2365:2530" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="2705:2965" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="3370:6497" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="3600:6436" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="3660:3977" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="3735:3814" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="3873:3959" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="3998:6421" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="4078:6072" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="4138:6050" ph="{...}" />
+                <marker date="1568849680204" expanded="true" signature="6113:6210" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.resx">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/UserControl1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <marker date="1568817863558" expanded="false" signature="6:213" ph="..." />
+                <marker date="1568817863558" expanded="true" signature="249:402" ph="{...}" />
+                <marker date="1568817863558" expanded="true" signature="303:400" ph="{...}" />
+                <marker date="1568817863558" expanded="true" signature="339:394" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/UserControl1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1568817863568" expanded="true" signature="34:1154" ph="{...}" />
+                <marker date="1568817863568" expanded="true" signature="67:1152" ph="{...}" />
+                <marker date="1568817863568" expanded="true" signature="82:169" ph="/// Обязательная переменная конструктора. ... " />
+                <marker date="1568817863568" expanded="true" signature="247:443" ph="/// Освободить все используемые ресурсы. ... " />
+                <marker date="1568817863568" expanded="true" signature="499:673" ph="{...}" />
+                <marker date="1568817863568" expanded="true" signature="560:626" ph="{...}" />
+                <marker date="1568817863568" expanded="true" signature="683:1146" ph="Код, автоматически созданный конструктором компонентов" />
+                <marker date="1568817863568" expanded="true" signature="755:925" ph="/// Требуемый метод для поддержки конструктора — не изменяйте  ... " />
+                <marker date="1568817863568" expanded="true" signature="968:1126" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <marker date="1568819719143" expanded="false" signature="6:124" ph="..." />
+                <marker date="1568819719143" expanded="true" signature="160:520" ph="{...}" />
+                <marker date="1568819719143" expanded="true" signature="187:518" ph="{...}" />
+                <marker date="1568819719143" expanded="true" signature="202:286" ph="/// Главная точка входа для приложения. ... " />
+                <marker date="1568819719143" expanded="true" signature="333:512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="155" column="37" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="37" />
+              <folding>
+                <marker date="1568849938835" expanded="false" signature="6:213" ph="..." />
+                <marker date="1568849938835" expanded="true" signature="249:4308" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="294:4302" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="328:383" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="500:521" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="586:685" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="750:847" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="911:1006" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1071:1170" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1235:1334" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1398:1897" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1424:1761" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1616:1696" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1812:1887" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="1961:2059" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="2123:2220" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="2284:2381" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="2445:2544" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="2608:2705" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="2770:2867" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="2932:3029" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="3093:3192" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="3257:3354" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="3419:3516" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="3581:3678" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="3743:3842" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="3906:4005" ph="{...}" />
+                <marker date="1568849938835" expanded="true" signature="4070:4292" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+              <folding>
+                <marker date="1568820318927" expanded="true" signature="34:14309" ph="{...}" />
+                <marker date="1568820318927" expanded="true" signature="65:14307" ph="{...}" />
+                <marker date="1568820318927" expanded="true" signature="80:166" ph="/// Обязательная переменная конструктора. ... " />
+                <marker date="1568820318927" expanded="true" signature="244:439" ph="/// Освободить все используемые ресурсы. ... " />
+                <marker date="1568820318927" expanded="true" signature="495:669" ph="{...}" />
+                <marker date="1568820318927" expanded="true" signature="556:622" ph="{...}" />
+                <marker date="1568820318927" expanded="true" signature="679:13174" ph="Код, автоматически созданный конструктором форм Windows" />
+                <marker date="1568820318927" expanded="true" signature="752:921" ph="/// Требуемый метод для поддержки конструктора — не изменяйте  ... " />
+                <marker date="1568820318927" expanded="true" signature="964:13154" ph="{...}" />
+                <marker date="1568820318927" expanded="true" signature="2336:2378" ph="/* button1 ... */" />
+                <marker date="1568820318927" expanded="true" signature="2784:2826" ph="/* button2 ... */" />
+                <marker date="1568820318927" expanded="true" signature="3229:3271" ph="/* button3 ... */" />
+                <marker date="1568820318927" expanded="true" signature="3675:3717" ph="/* button4 ... */" />
+                <marker date="1568820318927" expanded="true" signature="4122:4164" ph="/* button5 ... */" />
+                <marker date="1568820318927" expanded="true" signature="4568:4610" ph="/* button6 ... */" />
+                <marker date="1568820318927" expanded="true" signature="5014:5056" ph="/* button7 ... */" />
+                <marker date="1568820318927" expanded="true" signature="5461:5503" ph="/* button8 ... */" />
+                <marker date="1568820318927" expanded="true" signature="5908:5950" ph="/* button9 ... */" />
+                <marker date="1568820318927" expanded="true" signature="6354:6397" ph="/* button10 ... */" />
+                <marker date="1568820318927" expanded="true" signature="6810:6853" ph="/* button11 ... */" />
+                <marker date="1568820318927" expanded="true" signature="7268:7311" ph="/* button12 ... */" />
+                <marker date="1568820318927" expanded="true" signature="7726:7769" ph="/* button13 ... */" />
+                <marker date="1568820318927" expanded="true" signature="8183:8226" ph="/* button14 ... */" />
+                <marker date="1568820318927" expanded="true" signature="8640:8683" ph="/* button15 ... */" />
+                <marker date="1568820318927" expanded="true" signature="9098:9141" ph="/* button16 ... */" />
+                <marker date="1568820318927" expanded="true" signature="9556:9599" ph="/* button17 ... */" />
+                <marker date="1568820318927" expanded="true" signature="10013:10056" ph="/* button18 ... */" />
+                <marker date="1568820318927" expanded="true" signature="10471:10514" ph="/* button19 ... */" />
+                <marker date="1568820318927" expanded="true" signature="10928:10971" ph="/* button20 ... */" />
+                <marker date="1568820318927" expanded="true" signature="11384:11427" ph="/* textBox1 ... */" />
+                <marker date="1568820318927" expanded="true" signature="11708:11753" ph="/* Calculator ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/UserControl1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/UserControl1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PolskiNotaion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/PolskiNotaion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WindowsFormsApplication1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="38" />
+    <option name="width" value="1440" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WindowsFormsApplication1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WindowsFormsApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WindowsFormsApplication1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WindowsFormsApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WindowsFormsApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5c6682-40ce-4be9-bd29-eab822b1e4f8" name="Default Changelist" comment="" />
+      <created>1569008585306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569008585306</updated>
+      <workItem from="1569008594564" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="38" width="1936" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565827788485" expanded="true" signature="9:49" ph="{...}" />
+            <marker date="1565827788485" expanded="true" signature="26:47" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolskiNotaion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/UserControl1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1568817863568" expanded="true" signature="34:1154" ph="{...}" />
+            <marker date="1568817863568" expanded="true" signature="67:1152" ph="{...}" />
+            <marker date="1568817863568" expanded="true" signature="82:169" ph="/// Обязательная переменная конструктора. ... " />
+            <marker date="1568817863568" expanded="true" signature="247:443" ph="/// Освободить все используемые ресурсы. ... " />
+            <marker date="1568817863568" expanded="true" signature="499:673" ph="{...}" />
+            <marker date="1568817863568" expanded="true" signature="560:626" ph="{...}" />
+            <marker date="1568817863568" expanded="true" signature="683:1146" ph="Код, автоматически созданный конструктором компонентов" />
+            <marker date="1568817863568" expanded="true" signature="755:925" ph="/// Требуемый метод для поддержки конструктора — не изменяйте  ... " />
+            <marker date="1568817863568" expanded="true" signature="968:1126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="155" column="37" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="37" />
+          <folding>
+            <marker date="1568849938835" expanded="false" signature="6:213" ph="..." />
+            <marker date="1568849938835" expanded="true" signature="249:4308" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="294:4302" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="328:383" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="500:521" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="586:685" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="750:847" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="911:1006" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1071:1170" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1235:1334" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1398:1897" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1424:1761" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1616:1696" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1812:1887" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="1961:2059" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="2123:2220" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="2284:2381" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="2445:2544" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="2608:2705" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="2770:2867" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="2932:3029" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="3093:3192" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="3257:3354" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="3419:3516" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="3581:3678" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="3743:3842" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="3906:4005" ph="{...}" />
+            <marker date="1568849938835" expanded="true" signature="4070:4292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1568819719143" expanded="false" signature="6:124" ph="..." />
+            <marker date="1568819719143" expanded="true" signature="160:520" ph="{...}" />
+            <marker date="1568819719143" expanded="true" signature="187:518" ph="{...}" />
+            <marker date="1568819719143" expanded="true" signature="202:286" ph="/// Главная точка входа для приложения. ... " />
+            <marker date="1568819719143" expanded="true" signature="333:512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/UserControl1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <marker date="1568817863558" expanded="false" signature="6:213" ph="..." />
+            <marker date="1568817863558" expanded="true" signature="249:402" ph="{...}" />
+            <marker date="1568817863558" expanded="true" signature="303:400" ph="{...}" />
+            <marker date="1568817863558" expanded="true" signature="339:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.resx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <marker date="1568820318927" expanded="true" signature="34:14309" ph="{...}" />
+            <marker date="1568820318927" expanded="true" signature="65:14307" ph="{...}" />
+            <marker date="1568820318927" expanded="true" signature="80:166" ph="/// Обязательная переменная конструктора. ... " />
+            <marker date="1568820318927" expanded="true" signature="244:439" ph="/// Освободить все используемые ресурсы. ... " />
+            <marker date="1568820318927" expanded="true" signature="495:669" ph="{...}" />
+            <marker date="1568820318927" expanded="true" signature="556:622" ph="{...}" />
+            <marker date="1568820318927" expanded="true" signature="679:13174" ph="Код, автоматически созданный конструктором форм Windows" />
+            <marker date="1568820318927" expanded="true" signature="752:921" ph="/// Требуемый метод для поддержки конструктора — не изменяйте  ... " />
+            <marker date="1568820318927" expanded="true" signature="964:13154" ph="{...}" />
+            <marker date="1568820318927" expanded="true" signature="2336:2378" ph="/* button1 ... */" />
+            <marker date="1568820318927" expanded="true" signature="2784:2826" ph="/* button2 ... */" />
+            <marker date="1568820318927" expanded="true" signature="3229:3271" ph="/* button3 ... */" />
+            <marker date="1568820318927" expanded="true" signature="3675:3717" ph="/* button4 ... */" />
+            <marker date="1568820318927" expanded="true" signature="4122:4164" ph="/* button5 ... */" />
+            <marker date="1568820318927" expanded="true" signature="4568:4610" ph="/* button6 ... */" />
+            <marker date="1568820318927" expanded="true" signature="5014:5056" ph="/* button7 ... */" />
+            <marker date="1568820318927" expanded="true" signature="5461:5503" ph="/* button8 ... */" />
+            <marker date="1568820318927" expanded="true" signature="5908:5950" ph="/* button9 ... */" />
+            <marker date="1568820318927" expanded="true" signature="6354:6397" ph="/* button10 ... */" />
+            <marker date="1568820318927" expanded="true" signature="6810:6853" ph="/* button11 ... */" />
+            <marker date="1568820318927" expanded="true" signature="7268:7311" ph="/* button12 ... */" />
+            <marker date="1568820318927" expanded="true" signature="7726:7769" ph="/* button13 ... */" />
+            <marker date="1568820318927" expanded="true" signature="8183:8226" ph="/* button14 ... */" />
+            <marker date="1568820318927" expanded="true" signature="8640:8683" ph="/* button15 ... */" />
+            <marker date="1568820318927" expanded="true" signature="9098:9141" ph="/* button16 ... */" />
+            <marker date="1568820318927" expanded="true" signature="9556:9599" ph="/* button17 ... */" />
+            <marker date="1568820318927" expanded="true" signature="10013:10056" ph="/* button18 ... */" />
+            <marker date="1568820318927" expanded="true" signature="10471:10514" ph="/* button19 ... */" />
+            <marker date="1568820318927" expanded="true" signature="10928:10971" ph="/* button20 ... */" />
+            <marker date="1568820318927" expanded="true" signature="11384:11427" ph="/* textBox1 ... */" />
+            <marker date="1568820318927" expanded="true" signature="11708:11753" ph="/* Calculator ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApplication1/PolskiNotaion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2608">
+          <caret line="165" column="48" lean-forward="true" selection-start-line="165" selection-start-column="48" selection-end-line="165" selection-end-column="48" />
+          <folding>
+            <marker date="1568849680204" expanded="false" signature="6:75" ph="..." />
+            <marker date="1568849680204" expanded="true" signature="119:6503" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="168:251" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="483:1330" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="557:1320" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="698:1241" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="1373:1801" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="1406:1791" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="1865:3326" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="2043:3148" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="2100:3069" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="2177:2987" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="2242:2556" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="2365:2530" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="2705:2965" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="3370:6497" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="3600:6436" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="3660:3977" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="3735:3814" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="3873:3959" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="3998:6421" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="4078:6072" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="4138:6050" ph="{...}" />
+            <marker date="1568849680204" expanded="true" signature="6113:6210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
