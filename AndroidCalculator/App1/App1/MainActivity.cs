@@ -18,7 +18,7 @@ namespace App1
         Button button7, button0, button1, button2, button3, button4, button5, button6, button8,
        button9, buttonSqrt, buttonSqr, buttonPow, buttonPow10, buttonSkobkaR, buttonSkobkaL,
        buttonDot, buttonPlus, buttonMinus, buttonMul, buttonDiv, buttonRezolv, buttonBksp,
-       buttonCub, buttonC, buttonSin, buttonCos, buttonTan;
+       buttonCub, buttonC, buttonSin, buttonCos, buttonTan,buttonExp,buttonLog,buttonMod,buttonFact;
         private TextView textField, namberField;
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -85,6 +85,14 @@ namespace App1
             buttonTan.SetOnClickListener(this);
             buttonCub = FindViewById<Button>(Resource.Id.buttonCub);
             buttonCub.SetOnClickListener(this);
+            buttonMod = FindViewById<Button>(Resource.Id.buttonMod);
+            buttonMod.SetOnClickListener(this);
+            buttonExp = FindViewById<Button>(Resource.Id.buttonExp);
+            buttonExp.SetOnClickListener(this);
+            buttonLog = FindViewById<Button>(Resource.Id.buttonLog);
+            buttonLog.SetOnClickListener(this);
+            buttonFact = FindViewById<Button>(Resource.Id.buttonFact);
+            buttonFact.SetOnClickListener(this);
 
 
         }
@@ -93,104 +101,6 @@ namespace App1
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-        }
-
-
-      
-
-        void OnNamberClick1(object sender, EventArgs e)
-        {
-            rezult.Append("1");
-           textField.Append(rezult.ToString());
-
-        }
-        void OnNamberClick2(object sender, EventArgs e)
-        {
-            rezult.Append("2");
-            textField.Text=rezult.ToString();
-
-        }
-        void OnNamberClick3(object sender, EventArgs e)
-        {
-            rezult.Append("3");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnNamberClick4(object sender, EventArgs e)
-        {
-            rezult.Append("4");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnNamberClick5(object sender, EventArgs e)
-        {
-            rezult.Append("5");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnNamberClick6(object sender, EventArgs e)
-        {
-            rezult.Append("6");
-            textField.Append(rezult.ToString());
-
-        }
-
-        /*void OnNamberClick7(object sender, EventArgs e)
-        {
-            //Button button = (Button)sender;
-           
-          
-
-        }*/
-        void OnNamberClick8(object sender, EventArgs e)
-        {
-            rezult.Append("8");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnNamberClick9(object sender, EventArgs e)
-        {
-            rezult.Append("9");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnNamberClick0(object sender, EventArgs e)
-        {
-            rezult.Append("0");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnOperationClickMin(object sender, EventArgs e)
-        {
-            rezult.Append("-");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnOperationClickPlus(object sender, EventArgs e)
-        {
-            rezult.Append("+");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnOperationClickDiv(object sender, EventArgs e)
-        {
-            rezult.Append("//");
-            textField.Append(rezult.ToString());
-
-        }
-        void OnOperationClickMul(object sender, EventArgs e)
-        {
-            rezult.Append("*");
-            textField.Append(rezult.ToString());
-
-        }
-
-
-
-        void OnResolveClick(object sender, EventArgs e)
-        {
-          //  textField.Text =
-
         }
 
         public void OnClick(View v)
@@ -319,7 +229,7 @@ namespace App1
                 case Resource.Id.buttonPow10:
                     {
 
-                        rezult.Append("pow10");
+                        rezult.Append("pow10(");
                         textField.Text = rezult.ToString();
 
                         break;
@@ -327,7 +237,7 @@ namespace App1
                 case Resource.Id.buttonSqrt:
                     {
 
-                        rezult.Append("sqrt");
+                        rezult.Append("sqrt(");
                         textField.Text = rezult.ToString();
 
                         break;
@@ -335,7 +245,7 @@ namespace App1
                 case Resource.Id.buttonSqr:
                     {
 
-                        rezult.Append("sqr");
+                        rezult.Append("sqr(");
                         textField.Text = rezult.ToString();
 
                         break;
@@ -343,7 +253,7 @@ namespace App1
                 case Resource.Id.buttonCub:
                     {
 
-                        rezult.Append("cube");
+                        rezult.Append("cube(");
                         textField.Text = rezult.ToString();
 
                         break;
@@ -351,7 +261,7 @@ namespace App1
                 case Resource.Id.buttonSin:
                     {
 
-                        rezult.Append("sin");
+                        rezult.Append("sin(");
                         textField.Text = rezult.ToString();
 
                         break;
@@ -359,7 +269,7 @@ namespace App1
                 case Resource.Id.buttonCos:
                     {
 
-                        rezult.Append("cos");
+                        rezult.Append("cos(");
                         textField.Text = rezult.ToString();
 
                         break;
@@ -367,7 +277,40 @@ namespace App1
                 case Resource.Id.buttonTan:
                     {
 
-                        rezult.Append("tan");
+                        rezult.Append("tan(");
+                        textField.Text = rezult.ToString();
+
+                        break;
+
+                    }
+                case Resource.Id.buttonLog:
+                    {
+
+                        rezult.Append("log(");
+                        textField.Text = rezult.ToString();
+
+                        break;
+                    }
+                case Resource.Id.buttonMod:
+                    {
+
+                        rezult.Append("%");
+                        textField.Text = rezult.ToString();
+
+                        break;
+                    }
+                case Resource.Id.buttonExp:
+                    {
+
+                        rezult.Append("Exp(");
+                        textField.Text = rezult.ToString();
+
+                        break;
+                    }
+                case Resource.Id.buttonFact:
+                    {
+
+                        rezult.Append("fact(");
                         textField.Text = rezult.ToString();
 
                         break;

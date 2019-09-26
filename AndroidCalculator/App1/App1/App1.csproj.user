@@ -3,8 +3,8 @@
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
-    <SelectedDevice>my_device</SelectedDevice>
+    <SelectedDevice>Xiaomi Redmi Note 4</SelectedDevice>
     <DefaultDevice>my_device</DefaultDevice>
-    <ProjectView>ShowAllFiles</ProjectView>
+    <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
 </Project>

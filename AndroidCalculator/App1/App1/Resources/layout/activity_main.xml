@@ -221,6 +221,38 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <Button
+            android:id="@+id/buttonLog"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="log"
+            android:onClick="onNumberClickLog"/>
+        <Button
+            android:id="@+id/buttonExp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Exp"
+            android:onClick="onNumberClickExp"/>
+        <Button
+            android:id="@+id/buttonMod"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Mod"
+            android:onClick="onNumberClickMod"/>
+        <Button
+            android:id="@+id/buttonFact"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="fact"
+            android:onClick="onFact"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
             android:id="@+id/buttonSin"
             android:layout_weight="1"
             android:layout_width="0dp"

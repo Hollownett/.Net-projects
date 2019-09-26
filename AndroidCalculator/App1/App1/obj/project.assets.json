@@ -1538,11 +1538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LABA 8\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "D:\\Git\\AndroidCalculator\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "D:\\LABA 8\\App1\\App1\\App1.csproj",
+      "projectPath": "D:\\Git\\AndroidCalculator\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\LABA 8\\App1\\App1\\obj\\",
+      "outputPath": "D:\\Git\\AndroidCalculator\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
